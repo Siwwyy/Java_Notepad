@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="java_notepad/" kind="src" path="java_notepad/src"/>
+	<classpathentry kind="src" path="java_notepad/src/java_notepad"/>
+	<classpathentry kind="lib" path="java_notepad/dist/java_notepad.jar"/>
+	<classpathentry kind="lib" path="java_notepad/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="output" path="java_notepad/build/classes"/>
+</classpath>
